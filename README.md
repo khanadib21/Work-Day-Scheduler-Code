@@ -14,7 +14,7 @@ The task for module 5 Challenge was to create a simple calendar application that
 - [License](#license)
 - [How To Contribute](#how-to-contribute)
 ## Website Preview
-[Developer Website Link](https://khanadib21.github.io/Password-Generator-Code/)
+[Developer Website Link](https://khanadib21.github.io/Work-Day-Scheduler-Code/)
 ![Developer Portfolio Website](./Assets/Website%20Screenshot.jpg)
 ## Credits
 NOTE: Click preview pictures to navigate to the referenced site
